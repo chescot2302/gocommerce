@@ -1,0 +1,27 @@
+GoCommerce
+
+Es un proyecto real donde se desarrolla modulo de seguridad de menus, modulo de lista de precios y modulo de ventas de una empresa comercializadora.
+
+Este codigo fuente servirá aquellas personas que desean aprender a desarrollar
+aplicaciones en Google Web Toolkit.
+
+Este proyecto consta de 3 proyectos:
+	- egocommerce: capa de entidad y no depende de ningun proyecto.
+	- bgocommerce: capa de negocio y depende de egocommerce.
+	- webgocommerce: capa vista y control, depende egocommerce y bgocommerce.
+
+Plataforma Tecnológica:
+	- Lenguaje de Programación Java - J2EE.
+	- Servidor de aplicaciones GlassFish 4.x
+	- Google Web Toolkit 2.6.1
+	- Netbeans 8.0.2
+	- Datanucleus JDO 4.x.x
+	- Microsoft SQL Server 2008 r2.
+	- Framework de desarrollo propio.
+	- Usar Mozilla firefox 24.0 para instalar plugin GWT.
+
+En la carpeta data encontrara los backups a restaurar, sugiero hacerlo con los nombres:
+	-supergoadmin
+	-bdnava00
+
+Este proyecto fue desarrollado por @jofrantoba.

@@ -1,0 +1,11 @@
+egocommerce/build/
+egocommerce/dist/
+bgocommerce/build/
+egocommerce/dist/
+webgocommerce/dist/
+webgocommerce/build/
+webgocommerce/web/gwtmainsuperadmin/
+webgocommerce/web/gwtmainadmin/
+webgocommerce/web/gwtmainuser/
+webgocommerce/web/gwtsesion/
+weggocommerce/web/gwt-unitCache/
