@@ -1,0 +1,5 @@
+bgocommerce:
+
+bgocommerce es el proyecto que encapsula la logica de negocio, esto nos permite
+realizar un desarrollo orientado a procesos de negocio.
+Este proyecto es dependiente de egocommerce.
