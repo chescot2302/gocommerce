@@ -1,0 +1,41 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package com.gocommerce.server.model.xmlstore;
+
+import com.gocommerce.server.model.beans.PrecioItem;
+import java.io.Serializable;
+import java.util.Set;
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+
+/**
+ *
+ * @author SISTEMAS
+ */
+@XmlRootElement(name = "storeprecioitem")
+public class StorePrecioItem implements Serializable{
+    private Integer idStore;
+    private Set<PrecioItem> lista;
+
+    public Integer getIdStore() {
+        return idStore;
+    }
+
+    public void setIdStore(Integer idStore) {
+        this.idStore = idStore;
+    } 
+    
+    @XmlElement(name = "precioitem")
+    public Set<PrecioItem> getLista() {
+        return lista;
+    }
+
+    public void setLista(Set<PrecioItem> lista) {
+        this.lista = lista;
+    }
+                   
+}

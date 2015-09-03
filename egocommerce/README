@@ -1,0 +1,4 @@
+egocommerce.
+
+Es el proyecto que encapsula la capa de entidad del proyecto gocommerce, en esta
+capa encontraras los beans, dao y logic. Tambien encontraras la conexión a base de datos y una clase de automatización de consultas con jdo.
