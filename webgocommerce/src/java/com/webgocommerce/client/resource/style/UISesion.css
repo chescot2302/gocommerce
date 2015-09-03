@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06/12/2014, 08:39:01 AM
+    Author     : SISTEMAS
+*/
+#lblTitulo{
+    /*display: table-cell;*/
+    padding-left: 10px;
+    width: 40em;
+    height: 100%;
+    vertical-align: middle;
+    font-size: 16px;    
+}
+
+#lblEstado{
+    display: table-cell;
+    width: 100%;
+    height: 100%;
+    vertical-align: middle; 
+}
+

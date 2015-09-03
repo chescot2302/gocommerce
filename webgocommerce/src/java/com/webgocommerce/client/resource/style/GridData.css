@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20/12/2014, 12:19:03 PM
+    Author     : SISTEMAS
+*/
+
+.stlGridData thead{   
+    /*background: rgb(146, 193, 240);*/
+    background: -moz-linear-gradient(center bottom , #1E558B, #1E558B) repeat scroll 0% 0% transparent;
+    background: -webkit-gradient(linear,left bottom,left top,color-stop(0, #1E558B),color-stop(1, #1E558B));    
+}
+
+.stlGridData th{   
+    border: 1px solid;
+    /*color: #000;*/
+    color: #FFF;	
+    font-weight: bold;
+}
+
+.stlGridData td{   
+    border: 1px solid;
+}
+

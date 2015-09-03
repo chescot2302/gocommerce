@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06/12/2014, 10:01:42 AM
+    Author     : SISTEMAS
+*/
+.gwt-MenuBar-horizontal .gwt-MenuItem {
+vertical-align: middle !important;
+font-weight: bold;
+height: 32px;
+}
+
+.gwt-TabLayoutPanel .gwt-TabLayoutPanelContent {
+    padding: 0px !important;
+}
+
+.gwt-TabLayoutPanelContentContainer{
+    width: 100% !important;
+}
+
+.gwt-TabLayoutPanelTab-selected{
+    /*background: -moz-linear-gradient(center bottom , #1E558B, #1E558B) repeat scroll 0% 0% transparent !important;
+    background: -webkit-gradient(linear,left bottom,left top,color-stop(0, #1E558B),color-stop(1, #1E558B)) !important; */
+    background: rgb(98, 140, 218) !important;   
+}
+
+.GI4QBL4F2{
+    background: rgb(255, 255, 255) !important;   
+}
+
+.GI4QBL4C3, .GI4QBL4O2{
+    background: rgb(255, 255, 255) !important;       
+}
+
+.GI4QBL4C3, .GI4QBL4O2:focus{
+    box-shadow: 1px 1px 0px #888888;
+}
+
+.gwt-TextBox {
+    border: 0px;
+    width: 99%;
+    font-size: 1.5em;
+}
+
+.gwt-TextBox:focus {
+    box-shadow: 1px 1px 0px #888888 !important;
+}
+
+.gwt-PasswordTextBox{
+    border: 0px;
+    width: 100%;
+    font-size: 1.5em;
+}
+
+.gwt-PasswordTextBox:focus {
+    box-shadow: 1px 1px 0px #888888 !important;
+}

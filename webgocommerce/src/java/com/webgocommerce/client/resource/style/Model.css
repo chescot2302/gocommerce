@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29/12/2014, 03:47:02 PM
+    Author     : SISTEMAS
+*/
+
+.pushButton{
+	background: transparent;	
+}
+
+.mTextBoxWhite input{
+        background-color: #fff !important;
+}
+
+/* STYLE CONTENTFORM*/
+.mainContentForm{        
+	margin: 0px;
+	/*background-color: #fff;*/
+	border-left: 1px solid #A4A4A4;
+	border-right: 1px solid #A4A4A4;
+	border-top: 1px solid #A4A4A4;
+	color: #000;
+}
+
+.flexTableContentForm{
+	width: 100%;
+}
+
+.flexTableContentForm td{
+	padding-left: 10px;
+	background-color: #f3f3f3;
+	border-bottom: 1px solid #A4A4A4;
+}
+
+.flexTableContentForm td table td{
+	padding: 0px;
+	background-color: #fff;
+	color: #000 !important;
+}
+
+.widgetContentForm{
+	position:relative;
+	background-color: #fff;
+	height: 32px;
+	padding:4px;
+	display: block !important;
+	color: #000 !important;
+	
+}
+
+.widgetContentForm input{
+	border: 2px;
+	padding: 0px;
+	height: 20px;
+	color: #000 !important;
+	margin-top:4px;
+	width: 100%;        
+}

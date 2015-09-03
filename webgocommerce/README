@@ -1,0 +1,4 @@
+Webgocommerce:
+
+webgocommerce es el proyecto que encapsula la vista y el control, aqui podras encontrar las interfaces gráficas y las clases que permiten la comunicación con el servidor.
+Este proyecto es dependiente de egocommerce y bgocommerce.

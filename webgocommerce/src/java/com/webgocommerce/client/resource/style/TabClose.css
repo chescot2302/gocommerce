@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05/12/2014, 09:56:01 AM
+    Author     : SISTEMAS
+*/
+@CHARSET "UTF-8";
+@sprite .btnClose{
+	width:18px;
+	heigth:18px;
+	gwt-image: 'getImgCerrar16';
+}
+
+.lblTitulo{
+	float:left;
+	text-align:left;
+	margin-right:10px;
+        color:#fff;
+}

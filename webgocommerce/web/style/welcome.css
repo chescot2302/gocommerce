@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20/03/2015, 06:15:58 PM
+    Author     : SISTEMAS
+*/
+#btnEntrar{
+    background: rgb(115, 157, 1) !important;
+    margin-left: 50%;
+    margin-top: 45%;
+    position: fixed;    
+    font-size: 1.5em;
+    width: 12em;
+    height: 3em;
+    border-radius: 6px 6px 6px 6px;
+}
+
+#btnEntrar:hover{
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}

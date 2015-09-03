@@ -1,0 +1,17 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29/12/2014, 03:14:37 PM
+    Author     : SISTEMAS
+*/
+.headerMenu{
+	/*background: -moz-linear-gradient(center bottom , #1E558B, #1E558B) repeat scroll 0% 0% transparent;
+	background: -webkit-gradient(linear,left bottom,left top,color-stop(0, #1E558B),color-stop(1, #1E558B));*/
+        background: rgb(98, 140, 218);        
+	border-bottom: solid 1px #000;
+	color: #FFF;	
+        font-weight: bold;
+}
